@@ -1,12 +1,12 @@
 navbar:
-  blog_title: "演示站点"
+  blog_title: LIn Blog
   ground_glass:
     enable: true
 index:
   banner_img: /images/uploads/background.webp
   banner_img_height: 100
   slogan:
-    text: "这是一个演示博客,可以登陆后台实际测试效果"
+    text: You are back it with all the good things in the world. 你逆光而来，配得上这世间所有的好。
 post:
   banner_img: /images/uploads/mmexport1602581319886.webp
   banner_img_height: 70
@@ -28,18 +28,14 @@ about:
   banner_img_height: 80
   subtitle: null
   avatar: /img/avatar.png
-  name: "Fluid"
-  intro: "An elegant theme for Hexo"
+  name: Fluid
+  intro: An elegant theme for Hexo
 links:
   banner_img: /images/uploads/1616421416500-wallhaven-rddv31.jpg
   banner_img_height: 80
   subtitle: null
   items:
-    - title: Fluid Repo
-      intro: 主题 GitHub 仓库
-      link: https://github.com/fluid-dev/hexo-theme-fluid
-      avatar: /img/favicon.png
-    - title: 暮雨千泷
-      intro: 青天白日梦神仙
-      link: https://www.myql.xyz
-      avatar: https://cdn.jsdelivr.net/gh/leicancun/img@main/images/avatar.webp
+    - title: ChatGPT国内
+      intro: 实现国内访问chatgpt，直接调用的是chatgpt官方的api
+      link: https://m3gan.club
+      avatar: /images/uploads/微信图片_20230521180003.jpg
